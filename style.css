@@ -4,4 +4,6 @@ body {
 }
 .staff {
     color: green;
+    background: red;
+    color: white;
 }
